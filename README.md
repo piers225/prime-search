@@ -33,7 +33,7 @@ This program is designed to find and display all prime numbers up to a specified
 2. **Compile** the program:
 
    ```bash
-   gcc -o prime_checker prime_checker.c -lm
+   gcc ./main.c -o a.out -lm
 Note: The -lm flag is necessary to link the math library (math.h).
 
 3. **Run the program:
